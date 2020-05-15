@@ -3,7 +3,7 @@ body {
 }
 
 h1, h2 {
-    font-weight: normal;
+    font-weight: bold;
 }
 
 img {
@@ -13,4 +13,8 @@ img {
 main {
     max-width: 60em;
     margin: 6em auto;
+}
+
+p {
+    color: #1a1a1a;
 }
